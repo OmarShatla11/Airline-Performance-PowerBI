@@ -17,13 +17,13 @@ The dashboard consists of 3 main pages designed with a sleek dark-themed header 
 ## 📸 Screenshots
 
 ### 1. Executive Summary
-![Executive Summary](Images/Executive_Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ### 2. Delays & Cancellations Analysis
-![Delays & Cancellations](Images/Delays_and_Cancellations.png)
+![Delays & Cancellations](Delays_and_Cancellations.png)
 
 ### 3. Airports & Route Map
-![Airports & Route Map](Images/Airports_and_Route_Map.png)
+![Airports & Route Map](Airports_and_Route_Map.png)
 
 ---
 
